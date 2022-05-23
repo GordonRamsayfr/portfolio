@@ -127,6 +127,9 @@ a {
 
 /*-----Portfolio or Work Starts-------*/
 
+.veille-style {
+	text-align: center;
+}
 .portfolio {
 	padding: 50px 0;
 	background-color: rgba(235, 213, 235, 0.26);
